@@ -1,0 +1,772 @@
+<resources>
+
+
+    <string name="app_name">YeikCar</string>
+    
+    <!-- <string name="web">www.yeikcar.com</string> -->
+    
+    <string name="ast" translatable="false">*</string>
+  
+    
+    <string name="texto_valor_maximo">Maximum value</string>
+    <string name="texto_valor_minimo">Minimum value</string>
+    <string name="texto_valor_promedio">Average value</string>
+    
+    <string name="texto_porcentaje_total">TOTAL PERCENTAGE</string>
+    <string name="texto_distancia_por_consumo">DISTANCE FOR FILL-UP</string>
+    <string name="texto_costo_consumo">FILL-UP COST</string>
+    <string name="texto_costo_combustible">FUEL PRICE</string>
+    <string name="texto_volumenN">VOLUME</string>
+    <string name="texto_eficienciaA">EFFICIENCY</string>
+    
+    
+    
+    <!-- ****************************  PRO ********************************** -->
+    
+    <string name="titlePRO" translatable="false">YeikCar Pro</string>
+    <string name="mensaje_yeikcar_pro">This feature is available in the Pro version. Please update to unlock!</string>
+    
+    <!-- ********************  Vehiculo Nuevo ********************************** -->
+
+
+    <string name="texto_fecha_inicio">Start date</string>
+    <string name="texto_fecha_final">End date</string>
+      <string name="mensaje_atencion">Attention</string>
+
+    <string name="texto_vehiculo_eliminado">Vehicle removed</string>
+     
+     <string name="texto_viajes">Trips</string>
+
+
+    <!-- ************************** Intro App************************************* -->
+    
+    
+     <string name="mensaje_borrar_vehiculo">Delete vehicle</string>
+    <string name="mensaje_pregunta_borrar_vehiculo"> Are you sure you want to remove this vehicle?</string>
+    
+    <string name="texto_informar_problema">Report a problem</string>
+    <string name="texto_version_app">Version</string>
+    <string name="accion_compartir">Share</string>
+    <string name="YeisonR" translatable="false">© Yeison Restrepo</string>
+    <string name="mensaje_acerca_app">YeikCar Vehicles is an application that manages in a simple way, agile and powerful the various costs and incomes of one or more vehicles, which features a modern design and intuitive and complete and simple system that allows you to monitor the performance of your vehicles in the fuel consumption, maintenance, cleaning, expenses and income. In addition to the reminding function can schedule single or recurring tasks performed on the vehicle such as oil changes, tires, insurance purchase and more! It also has a fully integrated module of statistics and graphics that will make this task much easier.</string>
+    <string name="mensaje_compartir">I want to share with you this incredible application, please click the following link to download: http://www.yeikcar.com </string>
+    <string name="texto_redes_sociales">Social networks</string>
+    <string name="accion_editar">Edit</string>
+
+    <!-- Error -->
+    <string name="texto_ayuda">Help</string>
+    <string name="texto_inventario">Inventory</string>
+    <string name="texto_historial_cambios">Change history</string>
+    
+    <string name="texto_selecionar_vehiculo_widget">Select the vehicle for this widget</string>
+    <string name="accion_salir">Quit</string>
+    <string name="mensaje_widget_no_vehiculo">No vehicles to assign to this widget</string>
+    
+    <string name="texto_eliminado">Removed</string>
+
+
+    <!-- **************************** Consumo ************************************ -->
+
+
+    <!-- *************************** Gastos ************************************ -->
+
+    
+    <!-- ****************************** Mantenimiento ********************************* -->
+    
+    <string name="texto_servicio">Service</string>
+    <string name="texto_preventivo">Preventive</string>
+    <string name="texto_correctivo">Corrective</string>
+
+
+    <string name="mensaje_mantenimiento_añadido">Maintenance record added</string>
+    <string name="mensaje_mantenimiento_actualizado">Maintenance record updated</string>
+    <string name="mensaje_mantenimiento_eliminado">Maintenance record removed</string>
+    
+    
+    <!-- *************************** Limpieza ************************************* -->
+    
+    <!-- <string name="tvlimpieza" translatable="false">x</string>-->
+    <string name="texto_lavado">Wash</string>
+    <string name="texto_exterior">Exterior</string>
+    <string name="texto_interior">Interior</string>
+    <string name="texto_servicio_limpieza">Cleaning service</string>
+
+
+    <string name="mensaje_limpieza_añadido">Cleaning record added</string>
+    <string name="mensaje_limpieza_actualizado">Cleaning record updated</string>
+    <string name="mensaje_limpieza_eliminado">Cleaning record removed</string>
+    
+    
+     <!-- ***************************** Recordatorio ******************************** -->
+     
+
+     <string name="texto_gasto">Expense</string>
+     <string name="texto_limpieza">Cleaning</string>
+     <string name="texto_ingreso">Income</string>
+    <string name="texto_tipo_recordatorio">Kind of reminder</string>
+
+    <string name="recordatorio_proximo_evento">Next event</string>
+ 	 <string name="texto_distancia">Distance</string>
+ 	 <string name="texto_tiempo">Time</string>
+    <string name="texto_intervalo">Interval</string>
+ 	 <string name="IntervaloV" translatable="false">0.0</string>
+    <string name="acccion_detalles">Details</string>
+
+    <!-- ********************************** Ingreso *********************************** -->
+     
+    <string name="texto_ingresos">Income</string>
+    
+      
+    <string name="mensaje_ingreso_añadido">Income record added</string>
+    <string name="mensaje_ingreso_actualizado">Income record updated</string>
+    <string name="mensaje_ingreso_eliminado">Income record removed</string>
+
+     <!-- ******************************* Gasolinera ************************************** -->
+      
+
+      <!-- ********************************* Gasolineras ***************************************** -->
+
+    <!-- ********************************* MainActivity ***************************************** -->
+
+    <string name="mensaje_cargando">Loading...</string>
+
+    <string name="texto_repostajes">Fill-ups</string>
+      <string name="texto_mantenimientos">Maintenances</string>
+      <string name="texto_gastos">Expenses</string>
+      <string name="texto_limpiezas">Cleanings</string>
+
+    <string name="texto_costos">Costs</string>
+    <string name="texto_resumen">Summary</string>
+    <string name="texto_consumo">Fill-up</string>
+     <string name="maValue" translatable="false">1.000.000,00</string>
+    <string name="texto_mantenimiento">Maintenance</string>
+
+
+    <string name="texto_mejor">Best</string>
+      <string name="texto_peor">Worst</string>
+
+
+    <string name="texto_volumen_">Volume(</string>
+        <string name="texto_eficiencia_">Efficiency(</string>
+
+    <string name="mensaje_no_hay_gastos">No expenses data for this vehicle</string>
+        <string name="mensaje_no_hay_ingresos">No incomes data for this vehicle</string>
+        <string name="mensaje_no_hay_mantenimientos">No maintenances data for this vehicle</string>
+    <string name="mensaje_no_hay_consumos">No fill up data for this vehicle</string>
+    	
+    	<string name="gasto_peajes">Tolls</string>
+    	<string name="texto_adicional">Extra</string>
+    	<string name="accion_calcular">Calculate</string>
+    	<string name="mensaje_calculadora_titulo">Trip calculator</string>
+    <string name="mensaje_calculadora_informacion">With trip calculator can plan the total costs that could generate a trip you make to your vehicle, for the calculation of the total cost should consider the following:</string>
+    	<string name="mensaje_calculadora_distancia">Total distance traveled in the journey</string>
+    	<string name="mensaje_calculadora_precio">Fuel price.\n\n Note: This field is automatically populated with the average price of fuel service stations that are created in the application</string>
+    	<string name="mensaje_calculadora_eficiencia">Fuel efficiency value.\n\n Note: This field is automatically populated with the average fuel efficiency that register the vehicle</string>
+    	<string name="mensaje_calculadora_peaje">Total cost of tolls to cross the path of travel</string>
+    	<string name="mensaje_calculadora_adicional">Total cost of extras that will be on the trip as: hotels, meals, etc.</string>
+    	<string name="mensaje_calculadora_nota">The result of the calculation is an approximation to the real value that will be generated on the trip</string>
+   		<string name="mensaje_calculadora_error">The following information is required for the calculation:</string>
+   		
+   		<string name="accion_exportar">Export</string>
+
+    <string name="texto_selecionar_archivo">Select the file</string>
+
+    <string name="mensaje_csv">You can export or import the Fill-ups of this vehicle to a CSV file (Excel,LibreOffice)</string>
+    	<string name="mensaje_agregar_consumos_adicionales">It will add additional records refueling. Do you want to continue with the import?</string>
+    	
+    	<string name="mensaje_no_archivos_disponibles">Still no files available</string>
+    	<string name="texto_exportando_archivo">Exporting file</string>
+    	<string name="mensaje_importando_archivo">Importing file</string>
+    	
+    	<string name="mensaje_exportacion_exitosa">Export successful</string>
+    	<string name="mensaje_exportacion_fallida">Export failed</string>
+    	<string name="mensaje_importacion_exitosa">Import successful</string>
+    	<string name="mensaje_importacion_fallida">Import failed</string>
+    	
+    <!-- ********************************* ShowConsumo ***************************************** -->
+
+    <string name="NumConsumoValue" translatable="false">1</string>
+    <string name="mensaje_borrar_consumo">Delete fill up</string>
+    <string name="mensaje_pregunta_borrar_consumo">Are you sure you want to delete this fill up?</string>
+    <string name="texto_eficiencia">Efficiency</string>
+    <string name="texto_nombre_archivo">Filename</string>
+    <string name="texto_visor_csv">CSV viewer</string>
+    
+      <!-- ********************************* ShowGasto ***************************************** -->
+    
+
+    <string name="mensaje_borrar_gasto">Delete expense</string>
+    <string name="mensaje_pregunta_borrar_gasto">Are you sure you want to delete this expense?</string>
+    
+      <!-- ********************************* ShowIngreso ***************************************** -->
+      
+
+     <string name="mensaje_borrar_ingreso">Delete income</string>
+     <string name="mensaje_pregunta_borrar_ingreso">Are you sure you want to delete this income?</string>
+    
+      <!-- ********************************* ShowMantenimiento ***************************************** -->
+    
+
+    <string name="mensaje_borrar_mantenimiento">Delete maintenance</string>
+    <string name="mensaje_pregunta_borrar_mantenimiento">Are you sure you want to delete this maintenance?</string>
+    
+     <!-- ********************************* ShowLimpieza ***************************************** -->
+    
+
+    <string name="mensaje_borrar_limpieza">Delete cleaning</string>
+    <string name="mensaje_pregunta_borrar_limpieza">Are you sure you want to delete this cleaning?</string>
+    
+     <!-- ********************************* ShowRecoradorio ***************************************** -->
+
+    <string name="texto_dias_2">Day(s)</string>
+    <string name="texto_meses">Month(s)</string>
+     <string name="texto_años_2">Year(s)</string>
+
+    <string name="fec" translatable="false">12/10/2012</string>
+
+
+    <!-- ********************************* Maps ******************************************************** -->
+    
+    
+    
+      
+      <string name="texto_lugares">Places</string>
+      
+      
+    
+    <!-- ************************************** BackupAuto ********************************************** -->
+    
+    <string name="texto_copia_seguridad">Backup</string>
+    <string name="mensaje_detalles_copia_seguridad">You can make a backup which will save all vehicle data as consumption activities, maintenance, expenses, cleaning and reminders</string>
+    <string name="texto_memoria_interna">Internal memory</string>
+    <string name="CopNube" translatable="false">Dropbox</string>
+    <string name="texto_correo_electronico">Email</string>
+    
+    <string name="mensaje_cargando_copia_seguridad">Backup loading</string>
+    <string name="texto_descargando_copia_seguridad">Downloading backup</string>
+    
+    <string name="mensaje_exito_subida">Uploaded successfully</string>
+    <string name="mensaje_error_subida">Uploaded error</string>
+
+
+    <string name="mensaje_guardar_db_interno">Save database in internal memory</string>
+    <string name="texto_guardar_dropbox">Save database on Dropbox</string>
+    <string name="mensaje_enviar_db_correo">Send the database by email</string>
+    
+    <string name="accion_enlazar">Link</string>
+    <string name="mensaje_enlazar_dropbox">Link to your Dropbox account</string>
+    <string name="mensaje_si_enlace_dropbox">Your account is already linked Dropbox</string>
+    <string name="mensaje_no_enlace_dropbox">Your account is not yet linked Dropbox</string>
+    <string name="dropbox_sincronizacion_automatica">Automatic synchronization</string>
+	<string name="dropbox_mensaje_sincronizacion">Automatic data synchronization</string>
+	
+	<string name="dropbox_notificacion">Notification</string>
+	<string name="dropbox_mensaje_notificaciones">Enable notifications each time you send information to Dropbox</string>
+
+    <string name="texto_recuperar_basedatos">Recover Database of internal memory</string>
+    <string name="dropbox_recuperar_basedatos">Recover database Dropbox</string>
+    
+
+    <string name="texto_copia_seguridad_completada">Backup completed</string>
+    <string name="texto_copia_seguridad_no_completada">Backup not completed</string>
+    <string name="mensaje_importar_copia_seguridad">To retrieve a backup from the memory card, this process will overwrite the current data, you want to continue?</string>
+    <string name="texto_importar_base_datos">Importing database</string>
+    <string name="mensaje_copia_seguridad_recuperada">Backup recovered</string>
+    <string name="texto_copia_no_recuperada">Backup not restored</string>
+    <string name="mensaje_titulo_copia_seguridad">Backup YeikCar</string>
+    <string name="texto_ruta_copia_seguridad">Backup is created in:</string>
+    <string name="accion_enviar">Send</string>
+    <string name="texto_desvincular">Unlink</string>
+    <string name="mensaje_resumen_copia_seguridad">It will create a new backup to Dropbox, this process does not delete previous copies, can continue or unlink your Dropbox account</string>
+    <string name="mensaje_recuperar_copia_seguridad">It will restore the last backup made in Dropbox, this process will overwrite the current data, you want to continue?</string>
+    
+    <!-- ***************************************** Pref Gasolineras *********************************************** -->
+   
+	
+    
+     <!-- ***************************************  Pref Mantenimiento  ***************************************************** -->
+    
+     
+    
+    
+     <!-- ***************************************  Pref Gasto  ************************************************ -->
+    
+    
+    
+    <!-- ***************************************  Pref Ingreso  ************************************************ -->
+    
+    
+    
+     <!-- **************************************  Pref Compañia Combustible  ***************************************************** -->
+    
+    
+    
+     <!-- *****************************************  Pref Limpieza  ***************************************************** -->
+    
+   
+    
+     <!-- ****************************************  Pref Taller   ******************************************************* -->
+
+   
+    
+    <!-- ******************************************  Actualizar/Aceptar  ************************************************** -->
+    
+    <string name="accion_aceptar">Save</string>
+    <string name="accion_cancelar">Cancel</string>
+
+
+    <string name="texto_precio">Price</string>
+    <string name="texto_fecha">Date</string>
+    <string name="texto_kilometraje">Mileage</string>
+    <string name="texto_galones">Gallons</string>
+    <string name="Value" translatable="false">$/USD</string>
+    <string name="uGalones" translatable="false">/gal</string>
+    <string name="uKilometro" translatable="false">Km</string>
+    <string name="Kil" translatable="false">Kil</string>
+    <string name="mas" translatable="false">+</string>
+    <string name="cien" translatable="false">100</string>
+    <string name="MPG" translatable="false">mpg</string>
+
+    <!-- ******************************************  Graficas  ************************************************** -->
+
+    <string name="accion_filtrar">Filter</string>
+    <string name="texto_fechas">Dates</string>
+    <string name="texto_mes_ano">Month/Year</string>
+    <string name="reportes_seleccionar_fechas">Select dates</string>
+    <string name="texto_ingresar_fechas">You must enter a start date and an end date</string>
+    <string name="mensaje_no_hay_datos">No data available</string>
+    <string name="mensaje_fecha_error">Error in selected dates</string>
+    <string name="mensaje_fecha_detalles_error">The start date cannot be after the end date</string>
+    
+    <string name="texto_mes">Month</string>
+    <string name="texto_ano">Year</string>
+    <string name="mes_febrero">February</string>
+    <string name="mes_marzo">March</string>
+    <string name="mes_abril">April</string>
+    <string name="mes_mayo">May</string>
+    <string name="mes_junio">June</string>
+    <string name="mes_julio">July</string>
+    <string name="mes_agosto">August</string>
+    <string name="mes_septiembre">September</string>
+    <string name="mes_octubre">October</string>
+    <string name="mes_noviembre">November</string>
+    <string name="mes_diciembre">December</string>
+   
+    <string name="reportes_seleccionar_meses">Select the month and year</string>
+    
+    <string name="texto_periodo_ano">Year period</string>
+    <string name="texto_primer_trimestre">First quarter (Q1)</string>
+    <string name="texto_segundo_trimestre">Second quarter (Q2)</string>
+    <string name="texto_tercer_trimestre">Third Quarter (Q3)</string>
+    <string name="texto_cuarto_trimestre">Fourth quarter (Q4)</string>
+    <string name="texto_primera_mitad_año">First half year</string>
+    <string name="texto_segunda_mitad_año">Second half year</string>
+    <string name="texto_todo_año">All year</string>
+    
+    <string name="reportes_seleccionar_trimestre">Select the time period of the year</string>
+
+    
+    <string name="accion_valoracion">Rating</string>
+    <string name="mensaje_mas_tarde">Later</string>
+    <string name="irSI" translatable="false">Google Play</string>
+     
+      <!-- ******************************************  Estadisticas  ************************************************** -->
+
+    <string name="texto_general">General</string>
+    <string name="texto_distancia_">Distance(</string>
+     <string name="texto_distancia_total">Total distance</string>
+     <string name="texto_maximo">Maximum</string>
+     <string name="texto_minimo">Minimum</string>
+     <string name="texto_promedio">Average</string>
+     <string name="texto_ultimo">Last</string>
+     <string name="texto_numero_dias">Number of days</string>
+     <string name="texto_por_dia">Per day</string>
+     <string name="texto_por_distancia">By distance</string>
+     
+     <string name="texto_maxima">Maximum</string>
+     <string name="text_minima">Minimum</string>
+     <string name="texto_ultima">Last</string>
+         
+     <string name="texto_costos_">Cost (</string>
+     <string name="texto_total">Total</string>
+     
+     <string name="texto_ganacias">Profit</string>
+     
+     <string name="texto_precio_combustible_">Fuel price(</string>
+     <string name="texto_costo_consumo_">Fill-up cost(</string>
+     
+     <string name="texto_numero_gastos">Number of expenses</string>
+     <string name="texto_otros">Others</string>
+
+    <string name="texto_numero_ingresos">Number of income</string>
+     
+     <string name="texto_numero_mantenimientos">Number of maintenance</string>
+     <string name="texto_numero_limpiezas">Number of cleanings</string>
+     <string name="texto_gasolinera">Filling station</string>
+     <string name="texto_numero_estaciones_servicio">Number of stations</string>
+     
+     <string name="texto_mas_visitada">Most visited</string>
+     <string name="nodata" translatable="false"> </string>
+
+    <string name="mensaje_no_datos_periodo_inicial">No records of </string>
+     <string name="mensaje_no_datos_periodo">In the selected time period</string>
+
+    <string name="texto_desempeño">Performance</string>
+     
+     <string name="texto_dias">days</string>
+      <string name="texto_detalles_calculo">* The calculation of the percentage is obtained from the total costs of each month</string>
+
+
+    <string name="texto_gastos_totales">Total expenses</string>
+      <string name="texto_financiero">Financial</string>
+      
+
+
+    
+     
+    <!-- ************************************************************************************************************ -->
+
+      	
+    <string name="texto_unidades">Units</string>
+
+    <string name="texto_moneda">Currency</string>
+    <string name="texto_unidad_moneda">Currency unit used</string>
+    <string name="texto_seleccione_formato_moneda">Select a currency unit</string>
+
+
+    <string name="texto_formato">Format</string>
+    
+    <string name="texto_formato_fecha">Date format used</string>
+    <string name="texto_seleccione_formato_fecha">Select the date format</string>
+    
+    <string name="texto_cantidad_decimales_precio">Decimal pricing</string>
+    <string name="texto_numero_decimales_precio">Number of decimal digits in values of prices</string>
+    <string name="texto_selecione_numero_decimales">Select the number of decimals</string>
+    
+    <string name="texto_cantidad_decimales">Number of decimals</string>
+    <string name="texto_numero_decimales">Number of decimal digits used</string>
+    
+    <string name="texto_grafica">Charts</string>
+    <string name="texto_graficas">Charts</string>
+
+
+     
+    <string name="recordatorio_titulo">Reminder</string>
+
+
+    <!-- *********************************************  Baase de datos ******************************************************* -->
+
+
+    <string name="mantenimiento_refrigerante_radiador">Radiator Coolant</string>
+     <string name="mantenimiento_llantas">Tires</string>
+     <string name="mantenimiento_liquido_frenos">Brake fluid</string>
+     <string name="mantenimiento_bateria">Battery</string>
+     <string name="mantenimiento_fitro_combustible">Fuel filter</string>
+     <string name="mantenimiento_radiador">Radiator</string>
+     <string name="mantenimiento_luces">Lights</string>
+     <string name="mantenimiento_chasis">Chassis</string>
+     <string name="mantenimiento_pintura">Painting</string>
+     <string name="mantenimiento_cinturon">Belt</string>
+     <string name="mantenimiento_limpia_parabrizas">Windshield wipers</string>
+     <string name="mantenimiento_liquido_transmision">Transmission fluid</string>
+     <string name="mantenimiento_presion_neumaticos">Tire pressure</string>
+     <string name="mantenimiento_suspencion">Suspension system</string>
+     <string name="mantenimiento_alineacion_ruedas">Wheel alignment</string>
+     <string name="mantenimiento_bujia">Spark plug</string>
+     <string name="mantenimiento_cadena">Chain</string>
+     <string name="mantenimiento_retrovisores">Driving mirror</string>
+     <string name="mantenimiento_sistema_combustible">Fuel system</string>
+     <string name="mantenimiento_puertas">Doors</string>
+    <string name="mantenimiento_sistema_electrico">Electric system</string>
+     <string name="mantenimiento_rines">Wheels</string>
+     <string name="mantenimiento_sistema_hidraulico">Hydraulic system</string>
+     <string name="mantenimiento_aire_acondicionado">Heating system</string>
+
+
+    <string name="limpieza_a_mano">Hand-wash</string>
+     <string name="limpieza_apresion">Pressure washing</string>
+     <string name="limpieza_tunel_lavado">Tunnel washer</string>
+     <string name="limpieza_cera">Waxed</string>
+     <string name="limpieza_agua_osmotizada">Osmotic water</string>
+     <string name="limpieza_secado_a_mano">Hand drying</string>
+     <string name="limpieza_lavado_en_seco">Dry cleaning</string>
+     <string name="limpieza_lavadero">Car wash</string>
+
+    <string name="gasto_estacionamiento">Parking</string>
+     <string name="gasto_accesorios">Accessories and tuning</string>
+     <string name="gastos_impuestos">Tax</string>
+     <string name="gasto_seguro">Insurance</string>
+     <string name="gasto_multas">Fine</string>
+     <string name="gasto_accidente">Accident</string>
+
+     <string name="gasto_remolque">Tow</string>
+     <string name="ingreso_alquiler">Rent</string>
+     <string name="ingreso_mudanza">Move</string>
+     <string name="ingreso_transporte">Transport</string>
+    
+     <string name="texto_compania_combustibles">Fuel company</string>
+     
+     <string name="Esso" translatable="false">Esso</string>
+     <string name="Petro" translatable="false">Petrobrass</string>
+     <string name="Shell" translatable="false">Shell</string>
+     <string name="BioMax" translatable="false">BioMax</string>
+     <string name="Terpel" translatable="false">Terpel</string>
+     <string name="Texaco" translatable="false">Texaco</string>
+     
+
+      <!-- *********************************************  Nuevo  ******************************************************* -->
+     
+     <string name="texto_informacion">Information</string>
+     
+      <string name="texto_librerias">Libraries</string>
+	  <string name="texto_detalles_librerias">Libraries used in the application</string>
+	  
+	  <string name="Lib1" translatable="false">Android-Segmented-Control</string>
+      <string name="Lib1msj" translatable="false">https://github.com/hoang8f/android-segmented-control</string>
+      
+      <string name="Lib2" translatable="false">Android Flat Button</string>
+      <string name="Lib1msj2" translatable="false">https://github.com/hoang8f/android-flat-button</string>
+      
+      <string name="Lib3" translatable="false">ViewPagerIndicator</string>
+      <string name="Lib1msj3" translatable="false">http://viewpagerindicator.com</string>
+      
+      <string name="Lib4" translatable="false">GraphView</string>
+      <string name="Lib1msj4" translatable="false">https://github.com/jjoe64/GraphView</string>
+      
+      <string name="Lib7" translatable="false">Open CSV</string>
+      <string name="Lib1msj7" translatable="false">http://opencsv.sourceforge.net/project-info.html</string>
+      
+      <string name="Lib8" translatable="false">BetterPickers</string>
+      <string name="Lib1msj8" translatable="false">https://github.com/derekbrameyer/android-betterpickers</string>
+      
+      <string name="Lib9" translatable="false">HoloGraphLibrary</string>
+      <string name="Lib1msj9" translatable="false">https://bitbucket.org/danielnadeau/holographlibrary/wiki/Home</string>
+       
+      
+      <string name="mensaje_agradecimiento">Gratitude</string>
+       
+       <string name="texto_licencias">Licenses</string>
+       <string name="mensaje_detalles_agradecimiento">Special thanks to the following libraries:</string>
+     
+     <!-- ***********************************   YeikCar 2.0   ********************************************* -->
+
+    <string name="mensaje_error_faltan_datos">Missing data</string>
+    <string name="mensaje_nuevo_servicio_mantenimiento">Enter the new maintenance service</string>
+     <string name="texto_servicio_mantenimiento">Maintenance service</string>
+     <string name="texto_requerido">Required(*)</string>
+     <string name="texto_borrar_tipo_mantenimiento">Delete maintenance service</string>
+     <string name="mensaje_borrar_servicio_mantenimiento">Are you sure you want to remove this maintenance service?</string>
+     <string name="accion_eliminar">Delete</string>
+
+    <string name="texto_tipo_limpieza">Cleaning type</string>
+     <string name="mensaje_nuevo_tipo_limpieza">Enter the new type of cleaning</string>
+
+    <string name="texto_tipo_gasto">Expense type</string>
+     <string name="mensaje_nuevo_tipo_gasto">Enter the new type of expenditure</string>
+     <string name="texto_borrar_tipo_gasto">Delete expense type</string>
+     <string name="mensaje_borrar_tipo_gasto"> Are you sure you want to remove this expense type?</string>
+     
+     <string name="texto_tipo_ingreso">Income type</string>
+     <string name="mensaje_nuevo_tipo_ingreso">Enter the new type of income</string>
+
+    <string name="texto_compania_combustible">Fuel company</string>
+     <string name="mensaje_nuevo_nombre_compañia">Enter the name of the new fuel company</string>
+
+    <string name="texto_configuracion">Settings</string>
+
+    <string name="texto_nombre">Name</string>
+     <string name="texto_modelo">Model</string>
+   	 <string name="texto_marca">Brand</string>
+   	 <string name="texto_matricula">License plate</string>
+    <string name="texto_nota">Note</string>
+     <string name="texto_tipo">Kind</string>
+     <string name="mensaje_combustible">Fuel</string>
+     <string name="texto_vehiculo">Vehicle</string>
+
+
+    <string name="texto_primer_vehiculo">Add your first vehicle</string>
+     <string name="texto_primer_lugar">Add your first place</string>
+
+    <string name="texto_compania">Company</string>
+
+ 	 <string name="texto_direccion">Address</string>
+    <string name="texto_longitud">Longitude</string>
+    
+     <string name="mensaje_boton_gps">Tap the top GPS button to update your location</string>
+     <string name="texto_mapa">MAP</string>
+
+     <string name="mensaje_no_conexion_internet">No internet connection</string>
+     <string name="mensaje_buscando_ubicacion">Finding location</string>
+     <string name="mensaje_ubicacion_mapa">If you do not get the automatic placement, you can manually pressing a specific location on the map</string>
+
+    <string name="texto_borrar_estacion_servicio">Delete service station</string>
+     <string name="mensaje_borrar_estacion_servicio"> Are you sure you want to delete this service station?</string>
+
+     <string name="texto_taller_mecanico">Garage</string>
+
+    <string name="texto_consumoO">FILL UP</string>
+     <string name="texto_costo_total">Total cost</string>
+     <string name="texto_precio_combustible">Fuel price</string>
+	 <string name="texto_volumen">Volume</string>
+	 <string name="texto_odometro">Odometer</string>
+
+
+    <string name="texto_estilo_conduccion">Driving style</string>
+     <string name="texto_ruta">Route</string>
+     <string name="texto_clima_llantas">Weather/Tires</string>
+     
+     <string name="texto_ruta_mixta">Mixed</string>
+     <string name="texto_ruta_ciudad">City</string>
+     <string name="texto_ruta_carretera">Road</string>
+     <string name="texto_ruta_autopista">Highway</string>
+    
+     <string name="texto_estilo_lento">Moderate</string>
+     <string name="texto_estilo_medio">Normal</string>
+     <string name="texto_estilo_rapido">Fast</string>
+    
+     <string name="texto_clima_mixto">Mixed</string>
+     <string name="texto_clima_verano">Summer</string>
+     <string name="texto_clima_invierno">Winter</string>
+     <string name="texto_clima_nevado">Snow</string>
+     
+     <string name="mensaje_error_falta_campos">You must enter all required fields</string>
+     <string name="accion_error">Error</string>
+     <string name="texto_fecha_mayor">The date must be later or equal to </string>
+     <string name="texto_fecha_menor">The date must be prior or equal to</string>
+
+    <string name="texto_kilometraje_mayor">The odometer value must be higher than</string>
+    <string name="texto_estacion_servicio">Filling station</string>
+    
+     <string name="mensaje_primero_crear_estacion_servicio">First create a service station</string>
+     <string name="texto_no_hay_estaciones">No service station</string>
+     
+     <string name="mensaje_consumo_añadido">Fill-up record added</string>
+     <string name="mensaje_consumo_actualizado">Fill-up record updated</string>
+     <string name="mensaje_consumo_eliminado">Fill-up record removed</string>
+     
+     <string name="texto_gastoO">EXPENSE</string>
+     <string name="texto_descripcion">Description</string>
+     <string name="texto_tipo_2">Type</string>
+
+     <string name="mensaje_gasto_añadido">Expense record added</string>
+     <string name="mensaje_gasto_actualizado">Expense record updated</string>
+     <string name="mensaje_gasto_eliminado">Expense record removed</string>
+     
+     <string name="accion_nueva">New</string>
+     <string name="accion_nuevo">New</string>
+     
+     <string name="texto_mantenimientoO">MAINTENANCE</string>
+     <string name="texto_ingresoO">INCOME</string>
+     <string name="texto_limpiezaA">CLEANING</string>
+    <string name="texto_recordatorioO">REMINDER</string>
+
+    <string name="texto_hacer_pregunta">Ask a Question</string>
+     <string name="texto_soporte">Support</string>
+     <string name="texto_base_conocimiento">Knowledge Base</string>
+
+    <string name="mensaje_soporte">Welcome to the support section YeikCar Vehicles, here you will find answers to the most common questions about the application, the application is still in development. I am a single developer and this is my spare time project. I would be grateful if you bought the PRO version or help  this project by the following methods:</string>
+     
+     <string name="accion_continuar">Continue</string>
+     <string name="texto_traducir">Translate</string>
+    <string name="texto_desvincular_dropbox">Unlink Dropbox account</string>
+    <string name="mensaje_exportando_basedatos">Database exporting</string>
+    <string name="texto_estadisticas">Statistics</string>
+    <string name="simboloPorcentaje" translatable="false">%</string>
+    <string name="mes_enero">January</string>
+    <string name="accion_importar">Import</string>
+    <string name="accion_listo">Done</string>
+    <string name="texto_latitud">Latitude</string>
+    <string name="mensaje_no_hay_limpiezas">No cleanings data for this vehicle</string>
+    <string name="texto_eficiencia_combustible">Fuel efficiency</string>
+    <string name="mantenimiento_cojineria">Cushions</string>
+    <string name="texto_foto_comunidad">Community Forum</string>
+    <string name="mantenimiento_aceite_motor">Engine Oil</string>
+    <string name="recordatorios">Reminders</string>
+ <string name="texto_almacen">Shop</string>
+ <string name="texto_taller">Workshop</string>
+    <string name="texto_telefono">Phone</string>
+    <string name="texto_lugar">Place</string>
+    <string name="texto_recordatorio_vencido">Expired</string>
+    <string name="texto_recordatorio_activo">Active</string>
+    <string name="texto_recordatorio_pendiente">Pending</string>
+    <string name="texto_recordatorio_todos">All</string>
+    <string name="texto_faq">Frequently asked questions</string>
+    <string name="mensaje_enviar_sugerencias">Send Feedback</string>
+    <string name="mensaje_no_funcionando">Something Isn\'t Working</string>
+    <string name="mensaje_sugerir_idea">Suggest a feature</string>
+    <string name="texto_se_repite_cada">It is repeated every</string>
+    <string name="mensaje_nada_pendiente">There is nothing pending</string>
+    <string name="mensaje_no_recordatorios_activos">No active reminders</string>
+    <string name="mantenimiento_frenos_delanteros">Brakes front</string>
+    <string name="mantenimiento_frenos_traseros">Brakes rear</string>
+    <string name="mantenimiento_filtro_cabina">Cabin air filter</string>
+    <string name="mantenimiento_filtro_aire">Air Filter</string>
+    <string name="mantenimiento_liquido_diferencial">Differential fluid</string>
+    <string name="mantenimiento_sistema_escape">Exhaust system</string>
+    <string name="mantenimiento_bomba_combustible">Fuel pump</string>
+    <string name="mantenimiento_filtro_aceite">Oil filter</string>
+    <string name="mantenimiento_liquido_hidraulica">Power steering fluid</string>
+    <string name="texto_solo_una_vez">Just once</string>
+    <string name="texto_repetidamente">Repetitive loop</string>
+    <string name="recordatorio_activo">Reminder Activated</string>
+    <string name="texto_recordatorio_no_activo">Reminder not activated</string>
+    <string name="texto_marcar_completado">Set as done?</string>
+    <string name="accion_ahora">Now!</string>
+    <string name="accion_ignorar">Ignore</string>
+    <string name="mensaje_ignorar">Are you sure you want to ignore this reminder?</string>
+    <string name="accion_si">Yes</string>
+    <string name="accion_no">No</string>
+    <string name="Pro" translatable="false">YeikCar Pro</string>
+    <string name="reportes_saldo">Balance</string>
+    <string name="texto_gastos_ingresos">Expenses/Income</string>
+    <string name="texto_intro_1">Keep a detailed log of all activities of your vehicle</string>
+    <string name="texto_intro_2">Never again will you forget something important from your vehicle.</string>
+    <string name="texto_reportes">Reports</string>
+    <string name="mensaje_no_se_puede_eliminar">The record cannot be deleted</string>
+    <string name="texto_yeikcar_pro">Some features of this application is only available with the Pro version</string>
+    <string name="accion_comprar">Buy</string>
+
+    <string name="texto_permiso_denegado">Permission denied</string>
+    <string name="mensaje_permiso_ubicacion_necesaria">You need to allow access to location</string>
+    <string name="mensaje_permiso_storage_necesaria">You need to allow access to storage</string>
+    <string name="mensaje_keep">Keep it informed of the performance of your vehicle</string>
+    <string name="texto_tanque">Tank</string>
+    <string name="texto_lleno">Full</string>
+    <string name="texto_parcial">Partial</string>
+    <string name="mensaje_perdido">Missed previus fill-up</string>
+    <string name="texto_perdido">Missed</string>
+    <string name="texto_mismo_odometro">Repeated odometer value</string>
+    <string name="mensaje_diferente_cero">The value of distance and time cannot be zero</string>
+    <string name="texto_yeikcar_pro_detalles">• Unlimited vehicles \n • Unlimited reminders \n • Unlimited inventory parts \n • Editing parts inventory  \n • Data Backup Dropbox  \n • Export CSV vehicle reports (* Excel)   \n • Details on reports performance </string>
+    <string name="accion_gracias">Thank you for purchasing</string>
+    <string name="Lib5" translatable="false">MaterialDrawer</string>
+    <string name="Lib1msj5" translatable="false">https://github.com/mikepenz/MaterialDrawer</string>
+    <string name="Lib6" translatable="false">FloatingActionButton</string>
+    <string name="Libmsj6" translatable="false">https://github.com/Clans/FloatingActionButton</string>
+    <string name="Lib10" translatable="false">Android-ActionItemBadge</string>
+    <string name="Lib1msj10" translatable="false">https://github.com/mikepenz/Android-ActionItemBadge</string>
+    <string name="Lib11" translatable="false">Android-Iconics</string>
+    <string name="Lib1msj11" translatable="false">https://github.com/mikepenz/Android-Iconics</string>
+    <string name="Lib12" translatable="false">AppIntro</string>
+    <string name="Lib1msj12" translatable="false">https://github.com/PaoloRotolo/AppIntro</string>
+    <string name="Lib13" translatable="false">uCrop</string>
+    <string name="Lib1msj13" translatable="false">https://github.com/Yalantis/uCrop</string>
+    <string name="accion_inactivo">Inactive</string>
+    <string name="accion_saltar">Skip</string>
+    <string name="accion_visitar">Visits</string>
+    <string name="texto_estado">State</string>
+    <string name="NORMAL" translatable="false">NORMAL</string>
+    <string name="texto_mapa_satelital">SATELLITE</string>
+    <string name="texto_mapa_hibrido">HYBRID</string>
+    <string name="texto_tema">Theme</string>
+    <string name="texto_estilo">App Style</string>
+    <string name="Version1" translatable="false">3.2.6\n- Fix: Calculate trips error\n\n3.2.5\n- Add: Ability to share image of fill-ups, maintenances, incomes, cleanings, expenses\n- Add: Sort maintenance records, expenses, income and cleanings by date\n- Add: Android 7.1 full support\n- Update: Restriction date of first registration of maintenance, expenses, revenues, cleaning is removed\n- Update: libraries \n- Fix: Other minor errors \n\n3.2.1 \n- Fix: Other minor errors \n\n3.2.0 \n- Fix: Edit Fill-Up distance\n- Fix: Other minor errors \n\n3.1.9 \n- Update: App requires GPS hardware manifest \n- Update: libraries \n- Fixed: Other minor errors\n\n3.1.8 \n- Add: Charts interval preference \n- Fix: Error filter reports \n- Fix: Error filter charts \n- Fix: Error efficiency charts \n- Fix: Other minor errors\n\n3.1.7 \n- Fix: Error count Fill-ups \n- Fix: Other minor errors\n\n3.1.6 \n- Fix: Error crash in widgets\n\n3.1.5 \n- Add: App Style( Theme) \n- Fix: Error in graphs filter \n- Fixed: Other minor errors \n\n3.1.0 \n- Update: Places module\n- Update: Various UI tweaks\n- Update: translations\n- Fix: Error crash get address in Maps\n- Fix: Other minor errors\n- Android N support\n\n3.0.7 \n- Fix: Error creating new fill-up in Android 5.1\n\n3.0.6 \n- Fix: Error creating new cleanings\n\n3.0.5 \n- New: Possibility to Archive places (hide from the list)\n- New: Possibility to filter places  \n- Update: Small UI changes  \n- Fix: Reminder\'s issues\n\n3.0.4 \n- Fix: Error -505 to update application from PlayStore Android 5.0.x \n\n3.0.3 \n- New: Feedback forum due UserReport(add, discuss and vote on ideas) \n- Fix: Maintenance type selection is incorrect \n\n3.0.2 \n- Fix: Small issues reported by users \n\n3.0.1 \n- Fix: Critical error that does not allow data migration and force close \n\n3.0.0 \n- New: Material design update, new look \n- New: Android 6.0 (Marshmallow) new runtime permission support \n- New: Remove ads in free version \n- New: Totally rewritten reminders \n- New: Totally rewritten places \n- New: Remove ads in free version \n- New: In-app purchase \n- New: Missed and partial fill-ups \n- New: Independent units per vehicle \n- New: Efficiency calculation mode \n- New: FAB (Floating Action Button) on Dashboard \n- Update: Permissions required \n- Update: All tablet layout \n- Update: All third-party libraries \n- Fix: Add empty item places \n- Fix: Maps crash in tablet \n- Fix: A lot of small issues reported by users \n - And much more... \n \n  2.1.3 \n- Fixed: Back stack messy to exit since widget  \n- Fixed: close unexpectedly when opening application \n\n 2.1.1 \n- Fixed: Back stack messy to exit \n\n 2.1.0 \n- New: Translations: Italian, Portuguese, German, French \n- Improvement: Better performance App \n- Fixed: other minor errors  \n\n 2.0.0 \n- New: Redesigned interface \n- New: Android 5.0 support \n- New: Module performance statistics \n- New: Android minimum version 4.0 \n- New: Option in calculating efficiency, current or previous volume \n- New: Support integration with Freshdesk \n- New: App code is refactored\n- Update: All third-party libraries \n- Update: Graphic section \n- Improvement: Better performance App \n- Fixed: Close crashes App in reminders \n- Fix: Close crashes App when creating PDFs \n- Quit: PDF export option was abandoned because library and does not support android 4.3 or higher \n- Fixed: Other minor errors  \n\n 1.4.x \n- New: BetterPickers library \n- Update: Graphs \n- Update: Reports \n- Fixed: Other minor errors \n\n 1.0.0 \n- Initial release\n\n</string>
+    <string name="texto_intervalo_grafica">Charts interval</string>
+    <string name="texto_resumen_grafica">Number of samples to be graphed</string>
+    <string name="texto_unidad_grafica">Points to be graphed</string>
+    <string name="texto_semanas">Week(s)</string>
+    <string name="texto_desde_principio">From the beginning</string>
+    <string name="texto_ultimos">Last</string>
+
+
+</resources>
